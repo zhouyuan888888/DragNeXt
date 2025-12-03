@@ -15,7 +15,7 @@ This repository is the official code of [DragNeXt](https://arxiv.org/pdf/2506.07
 
 
 ## 2. BibTeX
-If you find this repository is useful for your research, please give us a star and cite our paper!
+If you find this repository is useful for your research, please give us a star ⭐ and cite our paper!
 ```bibtex
 @article{zhou2025dragnext,
   title={DragNeXt: Rethinking Drag-Based Image Editing},
