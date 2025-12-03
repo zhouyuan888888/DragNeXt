@@ -14,6 +14,7 @@
 
 
 ## 2. BibTeX
+If your find this repository is useful for your research, give us a star and cite our paper!
 ```bibtex
 @article{zhou2025dragnext,
   title={DragNeXt: Rethinking Drag-Based Image Editing},
