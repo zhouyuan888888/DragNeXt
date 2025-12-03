@@ -1,5 +1,5 @@
 <p align="center">
-  <img align="left" src="./figure/logo.png" width="12%" /><h1 align="center"><em>DragNeXt</em>: Rethinking Drag-Based Image Editing</h1>
+  <img align="left" src="./figure/logo.png" width="8%" /><h1 align="center"><em>DragNeXt</em>: Rethinking Drag-Based Image Editing</h1>
 </p>       
 
 ## The official code of [DragNeXt](https://arxiv.org/pdf/2506.07611).
