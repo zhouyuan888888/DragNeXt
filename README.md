@@ -1,37 +1,19 @@
 <p align="center">
-  <img align="left" src="./figure/logo.png" width="12%" /><h1 align="center"><em>DragNeXt</em>: DragNeXt: Rethinking Drag-Based Image Editing</h1>
-  <p align="center">
+  <img align="left" src="./figure/logo.png" width="12%" /><h1 align="center"><em>DragNeXt</em>: Rethinking Drag-Based Image Editing</h1>
 </p>       
 
+## The official code of [DragNeXt](https://arxiv.org/pdf/2506.07611).
 
-&nbsp;
-
-
-
-## 1. Getting Started with DragNeXt
-
-Before getting started, please make sure your system is equipped with a CUDA-compatible GPU and Python 3.9 or higher. We provide three methods to directly run GoodDrag:
-### 1️⃣ Automated Script for Effortless Setup
-
-- **Windows Users:** Double-click **webui.bat** to automatically set up your environment and launch the GoodDrag web UI.
-- **Linux Users:** Run **webui.sh** for a similar one-step setup and launch process.
-
-### 2️⃣ Manual Installation via pip
-1.  Install the necessary dependencies:
-	
-	```bash
-	pip install -r requirements.txt
-	```
-2. Launch the GoodDrag web UI:
-
-	```bash 
-	python gooddrag_ui.py
+## 1. Todo list
+- [x] open Github repository for DragNeXt; 
+- [x] initialize a README.md;
+- [ ] upload the code of DragNeXt;
+- [ ] re-clean and polish the code;
+- [ ] detail the packages required by DragNeXt;
+- [ ] add more visualized results in the repository;
 
 
-## 3. Acknowledgments
-Part of the code was based on [DragDiffusion](https://github.com/Yujun-Shi/DragDiffusion) and [DragGAN](https://github.com/XingangPan/DragGAN).
-
-## 4. BibTeX
+## 2. BibTeX
 ```bibtex
 @article{zhou2025dragnext,
   title={DragNeXt: Rethinking Drag-Based Image Editing},
