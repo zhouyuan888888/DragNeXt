@@ -2,7 +2,7 @@
   <img align="left" src="./figure/logo.png" width="14%" /><h1 align="center">DragNeXt: Rethinking Drag-Based Image Editing</h1>
 </p>       
 
-### The official code of [DragNeXt](https://arxiv.org/pdf/2506.07611).
+This repository is the official code of [DragNeXt](https://arxiv.org/pdf/2506.07611).
 
 ## 1. Todo list
 - [x] open a Github repository for DragNeXt; 
