@@ -2,7 +2,7 @@
   <img align="left" src="./figure/logo.png" width="14%" /><h1 align="center">DragNeXt: Rethinking Drag-Based Image Editing</h1>
 </p>       
 
-This repository is the official code of [DragNeXt](https://arxiv.org/pdf/2506.07611).
+This repository is the official code of [DragNeXt](https://arxiv.org/pdf/2506.07611), accepted by AAAI 2016! 🎉🎉🎉
 
 ## 1. Todo list
 - [x] open a Github repository for DragNeXt; 
@@ -15,7 +15,7 @@ This repository is the official code of [DragNeXt](https://arxiv.org/pdf/2506.07
 
 
 ## 2. BibTeX
-If you find this repository is useful for your research, please give us a star ⭐ and cite our paper!
+If you find this repository is useful for your research, please give us a star🌟 and cite our paper!
 ```bibtex
 @article{zhou2025dragnext,
   title={DragNeXt: Rethinking Drag-Based Image Editing},
@@ -26,3 +26,4 @@ If you find this repository is useful for your research, please give us a star �
 ```
 
 
+ e
