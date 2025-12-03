@@ -1,5 +1,5 @@
 <p align="center">
-  <img align="left" src="./figure/logo.png" width="14%" /><h1 align="center"><em>DragNeXt</em>: Rethinking Drag-Based Image Editing</h1>
+  <img align="left" src="./figure/logo.png" width="4%" /><h1 align="center">DragNeXt: Rethinking Drag-Based Image Editing</h1>
 </p>       
 
 ### The official code of [DragNeXt](https://arxiv.org/pdf/2506.07611).
@@ -7,14 +7,15 @@
 ## 1. Todo list
 - [x] open Github repository for DragNeXt; 
 - [x] initialize a README.md;
+- [ ] add more visualized results in the repository;
 - [ ] upload the code of DragNeXt;
 - [ ] re-clean and polish the code;
 - [ ] detail the packages required by DragNeXt;
-- [ ] add more visualized results in the repository;
+
 
 
 ## 2. BibTeX
-If your find this repository is useful for your research, give us a star and cite our paper!
+If you find this repository is useful for your research, please give us a star and cite our paper!
 ```bibtex
 @article{zhou2025dragnext,
   title={DragNeXt: Rethinking Drag-Based Image Editing},
